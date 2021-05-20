@@ -1,0 +1,1 @@
+# design-smekta-service
